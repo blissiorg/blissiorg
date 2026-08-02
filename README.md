@@ -7,77 +7,52 @@
 ╚═════╝ ╚══════╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝
 ```
 
-# hey, I'm Rayane aka `blissio` 👋
+# Hi, I'm Rayane 👋 (`blissio`)
 
-> Cybersecurity & Data Science double major @ Duquesne University  
-> I break things (ethically), build tools, and rice Linux distros at 3AM.
-
----
-
-## 🔍 What I'm about
-
-- 🔒 **Security** — penetration testing, digital forensics, reverse engineering, threat modeling
-- 📊 **Data Science** — statistical modeling, ML, log analysis, R & Python
-- 🖥️ **Systems** — homelabs, Linux from scratch, low-level programming, kernel internals
-- 🛠️ **Building** — automation tools, Assembly games, computer vision, deployment scripts
+> **Cybersecurity & Data Science Student @ Duquesne University**  
+> *Low-level systems, computer vision, local security automation, and low-level development.*
 
 ---
 
-## 🧰 Stack
+## ⚡ What I'm Working On
 
-```
-Languages    →  Python  C++  C  Assembly (MASM)  R  Bash  Java
-Security     →  Wireshark  Metasploit  Nmap  Splunk  Ghidra
-Data         →  Pandas  NumPy  OpenCV  ggplot2  scikit-learn
-Infra        →  Proxmox  Docker  Linux (Arch/Void/Debian)  Active Directory
-Networking   →  Pi-hole  Tailscale  WireGuard  pfSense  NAS
-```
+- 🎯 **[Project-Camera-detection](https://github.com/blissio/Project-Camera-detection)** — Building a real-time object tracking and 3D state estimation pipeline using **YOLOv8** and a custom **6D Kalman filter**.
+- 🛡️ **[logscope](https://github.com/blissio/logscope)** — Developing a lightweight, terminal-focused SIEM for local Linux log parsing, threat scoring, and brute-force detection.
+- 🏠 **[Homelab Stack](https://github.com/blissio/Homelab)** — Maintaining self-hosted virtualized environments (Proxmox, Active Directory, WireGuard, Nextcloud) for security research.
 
 ---
 
-## 🏗️ Featured Projects
+## 🧰 Tech Stack & Tools
 
-| Project | What it does | Stack |
-|---|---|---|
-| [📷 volleyball-tracker](https://github.com/blissio/Project-Camera-detection) | Real-time ball tracking using fused Kalman filtering + computer vision | Python, OpenCV |
-| [🎮 Me And Them](https://github.com/blissio/Me-And-Them) | Fully playable top-down ASCII game with music, menus & room transitions | x86 Assembly (MASM) |
-| [🐧 Arch Install Script](https://github.com/blissio/Arch-install-script) | Automated Arch Linux install for BIOS & UEFI systems | Bash |
-| [🎨 Dotfiles](https://github.com/blissio/Dotfiles) | My configs — dwm, i3, st, alacritty, and more | C, Shell |
+* **Languages:** Python, C++, C, Assembly (MASM), Bash, SQL, Java
+* **Security & SIEM:** Log Analysis, Penetration Testing, Active Directory, Wireshark, Azure Security, SIEM Tools
+* **Data Science & Vision:** Computer Vision (OpenCV, YOLOv8), Kalman Filtering, Pandas, NumPy, Data Visualization
+* **Systems & Admin:** Arch Linux, Gentoo, Debian, Proxmox, Git, Docker, System Configuration & Dotfiles
 
 ---
 
-## 🏠 Homelab
+## 📌 Featured Repositories
 
-Running a personal enterprise-grade homelab:
-
-```
-Proxmox          → type-1 hypervisor, multiple VMs
-Nextcloud        → self-hosted storage & sync
-Gitea            → private git server
-Pi-hole          → DNS-level ad & tracker blocking
-WireGuard VPN    → hardened tunnel for remote access
-Tailscale        → zero-config overlay network
-NAS              → centralized storage w/ RAID
-Debian 12        → hardened server OS (upgrading to 13)
-Active Directory → domain lab for security testing
-```
+| Repository | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project-Camera-detection](https://github.com/blissio/Project-Camera-detection)** | Real-time object detection and tracking pipeline using YOLOv8 & a 6D Kalman filter | `Python` |
+| **[logscope](https://github.com/blissio/logscope)** | Lightweight SIEM engine for local log parsing and threat scoring | `Python` |
+| **[Arch-install-script](https://github.com/blissio/Arch-install-script)** | Automated Arch Linux installation script supporting both BIOS-legacy and UEFI systems | `Shell` |
+| **[Me-And-Them](https://github.com/blissio/Me-And-Them)** | Terminal-based game built completely from scratch in low-level MASM | `Assembly` |
+| **[Homelab](https://github.com/blissio/Homelab)** | Self-hosted, self-managed local network and infrastructure stack | `Docs / Config` |
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Activity
 
-- 🥇 **ASA DataFest 2025 — Judges' Choice Award** — predictive modeling & dashboards on a large unstructured dataset
-- ✈️ **Cybersecurity Intern @ Royal Air Maroc** — vulnerability assessments on Boeing 787 avionics systems
-- 🔧 **20+ automation tools** written in Python & Bash for forensics, sysadmin, and security workflows
-
----
-
-## 📡 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayaneelyasti-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rayaneelyasti)
-[![Website](https://img.shields.io/badge/Website-blissio.github.io-black?style=flat&logo=github)](https://blissio.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-blissio-181717?style=flat&logo=github)](https://github.com/blissio)
+- 📊 **ASA DataFest Winner** — Recipient of the *Judges' Choice Award* at ASA DataFest.
+- ✈️ **Cybersecurity Experience** — Hands-on enterprise security operations, log management, and cloud security at Royal Air Maroc.
+- 🌐 **Data Analytics** — Sustainable development indicator modeling and interactive dashboard engineering with the International Sibling Society (ISS).
 
 ---
 
-*Arabic native · French fluent · English fluent · Linux always*
+## 📬 Connect with Me
+
+* **Website:** [blissiorg.github.io](https://blissiorg.github.io/)
+* **LinkedIn:** [linkedin.com/in/rayaneelyasti](https://www.linkedin.com/in/rayaneelyasti)
+* **GitHub:** [@blissio](https://github.com/blissio)
